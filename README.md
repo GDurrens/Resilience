@@ -7,4 +7,6 @@ Authors: Gregoire Durrens and Nicolo Gnecchi
 
 The Game of Resilience.
 
+Boards best printed on A3 paper.
+
 
