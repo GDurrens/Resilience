@@ -1,0 +1,23 @@
+Version with a center "cloud" - good for many people in groups and workshops.
+
+The game parameters depend on the number of people.
+Waiting for the html version of the game parameters generator, use these defaults values :
+
+Number of cards per group : 
+10
+
+Final need points on the 10th round :
+7
+
+Money per group :
+7
+
+Maximum stress points per group :
+5
+
+Planet collapse :
+closest integer below the total amount of money dealt (number of groups x 7) multiplied by 9/10.
+=> floor(7*NumberOfGroups*9/10)
+
+
+
