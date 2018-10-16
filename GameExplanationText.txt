@@ -1,26 +1,30 @@
-Version with a center "cloud" - good for many people in groups and workshops.
+Main version.
+
+7 players max.
 
 Material:
-- Invention and fabrication board
-- Fabricated and documented board
+- "Invention and fabrication" boards
+- "Fabricated and documented" boards
+- "data" tokens (pawns)
+- "timing" board to keep track of rounds and their needs requirements.
+- 1 "current round" token
+- "need" tokens
+- energy tokens
 
-The game parameters depend on the number of people.
-Waiting for the html version of the game parameters generator, use these defaults values :
+Each player has at the beginning:
+- 1 "Invention and fabrication" board
+- 1 "Fabricated and documented" board
+- few "data" pawns of his own kind
+- 7 of money
+- 10 system cards randomly dealt
 
-Number of cards per group : 
-10
 
-Final need points on the 10th round :
-7
-
-Money per group :
-7
-
-Maximum stress points per group :
+Maximum stress points per player:
 5
 
 Planet collapse :
 closest integer below the total amount of money dealt (number of groups x 7) multiplied by 9/10.
+
 => floor(7*NumberOfGroups*9/10)
 
 
