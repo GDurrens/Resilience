@@ -1,5 +1,9 @@
 Version with a center "cloud" - good for many people in groups and workshops.
 
+Material:
+- Invention and fabrication board
+- Fabricated and documented board
+
 The game parameters depend on the number of people.
 Waiting for the html version of the game parameters generator, use these defaults values :
 
