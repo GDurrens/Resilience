@@ -5,8 +5,9 @@ Main version.
 Material:
 - "Invention and fabrication" boards
 - "Fabricated and documented" boards
-- "data" tokens (pawns)
 - "timing" board to keep track of rounds and their needs requirements.
+- "needs" board
+- "data" tokens (pawns)
 - 1 "current round" token
 - "need" tokens
 - energy tokens
